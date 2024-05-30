@@ -16,5 +16,6 @@ Research Interests
 * Federated Learning;
 * Machine Learning.
 
-![cv](/images/CV-XinyuChen.png)
+I am actively seeking a funded position as a **visiting researcher student** or **Ph.D. candidate**. For more detailed information, please refer to my CV. Thank you very much for your time and consideration!
+
 
