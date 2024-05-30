@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /assets/CV-XinyuChen.pdf
 author_profile: true
 redirect_from:
   - /resume
@@ -11,33 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Statistics, University of Science and Technology of China (USTC), Sept. 2021 -- Expected Nov. 2024
+* B.S. in Statistics, Beijing Institute of Technology (BIT), Sept. 2017 -- Jun. 2021
 
-Work experience
+Manuscript & Publication
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Chen X., Yu D., and Zhang X. (2023). Optimal Weighted Random Forests. arXiv preprint [arXiv:2305.10042](http://arxiv.org/abs/2305.10042).
+ (Under 2nd round review by Journal of Machine Learning Research)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
+Research Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
+* Optimal Weighted Random Forests
+  * Proposed an weighting algorithm that combines random forest regression trees with weights obtained by our loss function.
+  * Developed an iterative algorithm to accelerate convex optimization by reducing its order.
   * Sub-skill 2.3
 * Skill 3
 
@@ -53,12 +41,6 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
