@@ -17,6 +17,6 @@ Research Interests
 * Machine Learning.
   
 -------
-I am actively seeking a funded position as a **visiting researcher student** or **Ph.D. candidate**. For more detailed information, please refer to my [CV](/assets/CV-XinyuChen.pdf). Thank you very much for your time and consideration!
+I am actively seeking a funded position as a **visiting researcher student** or **Ph.D. candidate**. For more detailed information, please refer to my [CV](https://github.com/XinyuChen-hey/XinyuChen-hey.github.io/blob/master/assets/CV-XinyuChen.pdf). Thank you very much for your time and consideration!
 
 
