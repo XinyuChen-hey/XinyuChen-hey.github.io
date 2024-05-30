@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: [CV](https://github.com/XinyuChen-hey/XinyuChen-hey.github.io/blob/master/assets/CV-XinyuChen.pdf)
+#title: [CV](https://github.com/XinyuChen-hey/XinyuChen-hey.github.io/blob/master/assets/CV-XinyuChen.pdf)
+[CV](https://github.com/XinyuChen-hey/XinyuChen-hey.github.io/blob/master/assets/CV-XinyuChen.pdf)
 permalink: /cv/
 author_profile: true
 redirect_from:
