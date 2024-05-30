@@ -16,5 +16,5 @@ Research Interests
 * Federated Learning;
 * Machine Learning.
 
-![cv](/assets/CV-XinyuChen.pdf)
+![cv](/images/CV-XinyuChen.png)
 
