@@ -13,7 +13,7 @@ Research Interests
 ------
 * Model Averaging and Selection;
 * Transfer Learning;
-* Federated Learning;
+* Distributed Learning;
 * Machine Learning.
   
 -------
