@@ -24,7 +24,7 @@ author:
   avatar           : "green_dog_me.jpg"
   name             : "Xinyu Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Third-year Master's student"
+  # bio              : "Third-year Master's student"
   location         : "Hefei, China"
   employer         : "USTC"
   uri              : # URL
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=_ugE29MAAAAJ&hl=en&oi=sra"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
