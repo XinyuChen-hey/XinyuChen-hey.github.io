@@ -12,7 +12,7 @@ Hi! My name is Xinyu Chen (CN: 陈心语). I recently graduated with a Master's 
 Publication
 ------
  **Chen X.**, Yu D., & Zhang X. (2024), Optimal Weighted Random Forests, *Journal of Machine Learning Research (JMLR)*,
- 25(320), 1-81.
+ 25(320), 1-81. [[Link]](https://jmlr.org/papers/v25/23-0607.html)
 
 Research Interests
 ------
